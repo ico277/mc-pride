@@ -1,0 +1,23 @@
+{
+  "name": "mc-pride",
+  "version": "1.0.0",
+  "description": "discord music bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ico277/mc-pride.git"
+  },
+  "author": "ico277",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ico277/mc-pride/issues"
+  },
+  "homepage": "https://github.com/ico277/mc-pride#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
